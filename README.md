@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://github-readme-stats.vercel.app/api?username=JackLI9)](https://github.com/JackLI9)
 <!--
 **JackLI9/JackLI9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
