@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Jack Li's github stats](https://github-readme-stats.vercel.app/api?username=JackLI9&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackLI9&layout=compact)](https://github.com/JackLI9/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackLI9&layout=compact&theme=onedark)](https://github.com/JackLI9/)
 
 <!--
 **JackLI9/JackLI9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
